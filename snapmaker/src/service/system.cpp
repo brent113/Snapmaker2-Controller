@@ -2166,4 +2166,3 @@ ErrCode SystemService::CallbackPostQS(QuickStopSource source) {
 
   return E_SUCCESS;
 }
-
